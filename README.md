@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Kamble
-- 👀 I’m interested in Software Development
+- 👀 I’m Software Developer
 - 🌱 I’m currently learning React.js
 - 💞️ Open to collaborate
 - 📫 kshub44kamble@gmail.com
